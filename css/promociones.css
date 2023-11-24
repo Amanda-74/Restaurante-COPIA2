@@ -1,0 +1,47 @@
+header{
+	background-image: url("https://www.camping-ametza.com/wp-content/uploads/2021/12/camping-restaurant.jpg");
+	background-repeat: no-repeat;
+	height: 90px;
+	text-align: center;
+	font-family: times new roman;
+	color: white;
+	padding-top: 20px;
+
+}
+body{
+	color: white;
+	background-image: url("https://images2.alphacoders.com/775/775031.jpg");
+	background-repeat: repeat-y;
+}
+img{
+	width: 30%;
+	height: 10%;
+	border-radius: 10%;
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-bottom: 20px;
+
+}
+p{
+	font-family: times new roman;
+	color: white;
+	font-size: 18px;
+	margin-left: 30px;
+	text-align: justify;
+	padding-right: 50px;
+	margin-bottom: 30px;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+	
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+
+}
+
+/*Dispositivos mas grandes*/
+@media (min-width: 1200px) { 
+		
+
+}
